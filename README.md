@@ -22,7 +22,7 @@ See [`CONTRIBUTING.md`][org-contrib].
 
 ## Key documentation
 
-1. Creative Commons has a [Network Strategy](GlobalNetworkStrategy-Final.md)
+1. Creative Commons has a [Networking Strategy](GlobalNetworkStrategy-Final.md)
 2. The [CC Network Platforms](https://github.com/creativecommons/network-platforms) are the way you can join the CC volunteers around the world!
 3. ⭐ Read our [Charter](https://creativecommons.org/about/global-affiliate-network/charter/), includes our **Code of Conduct**.
 4. Check our [CC Network webpage](https://network.creativecommons.org/)
